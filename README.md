@@ -13,19 +13,8 @@ To implement this, a YOLO pre-trained model is used for player detection and a t
 | 04_player_stats        | Computes player-level performance metrics such as movement speed, distance covered, court coverage heatmaps, and positional statistics derived from tracked trajectories. |
 | 05_train_yolo          | Creates the trained model instance best.pt from the labelled data with only one class i.e. shuttlecock. This model will further be used for detection of shuttlecock in videos. |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Model Training Performance
+![Trained_Model_Performance](https://github.com/user-attachments/assets/d3ed7d19-fed4-4c00-8d0c-ac9c3fcdf44a)
 
 
 Copyright (c) 2025 Satyaki Patra
