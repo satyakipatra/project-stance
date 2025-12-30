@@ -17,7 +17,7 @@ To implement this, a YOLO pre-trained model is used for player detection and a t
 
 ![Screenshot 2025-12-31 011036](https://github.com/user-attachments/assets/68a6d02e-2de0-4ed2-aa5b-8eb5b4b9b8af)
 
-### Player Statistics (Court Coverage Heatmap):
+### Player Statistics - Court Coverage
 
 ![Screenshot 2025-12-31 011804](https://github.com/user-attachments/assets/0436b823-a8d4-4838-8c78-ea5fc7987585)
 
