@@ -14,9 +14,11 @@ To implement this, a YOLO pre-trained model is used for player detection and a t
 | 05_train_yolo          | Creates the trained model instance best.pt from the labelled data with only one class i.e. shuttlecock. This model will further be used for detection of shuttlecock in videos. |
 
 ### Player Tracking
+
 ![Screenshot 2025-12-31 011036](https://github.com/user-attachments/assets/68a6d02e-2de0-4ed2-aa5b-8eb5b4b9b8af)
 
 ### Court Coverage Heatmap
+
 ![Screenshot 2025-12-31 011804](https://github.com/user-attachments/assets/0436b823-a8d4-4838-8c78-ea5fc7987585)
 ![Screenshot 2025-12-31 011841](https://github.com/user-attachments/assets/f2e8710e-a11c-4b96-94ba-0c90f7150597)
 
