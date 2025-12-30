@@ -1,5 +1,5 @@
 # Project Stance
-This project uses computer vision to analyze match videos and extract performance metrics such as player positions, speed, court coverage, rally duration, and shot patterns. The goal is to enable automated, data-driven insights for player performance analysis and training.
+This project uses computer vision to analyze badminton match videos and extract performance metrics such as player positions, speed, court coverage, rally duration, and shot patterns. The goal is to enable automated, data-driven insights for player performance analysis and training.
 To implement this, a YOLO pre-trained model is used for player detection and a trained model (using >8k+ labelled image data) for accurate metric calculations. 
 
 
