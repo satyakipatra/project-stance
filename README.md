@@ -12,6 +12,7 @@ To implement this, a YOLO pre-trained model is used for player detection and a t
 | 03_player_tracking     | Assigns persistent IDs to detected players across frames using multi-object tracking, enabling continuous player trajectories throughout the rally and match. |
 | 04_player_stats        | Computes player-level performance metrics such as movement speed, distance covered, court coverage heatmaps, and positional statistics derived from tracked trajectories. |
 | 05_train_yolo          | Creates the trained model instance best.pt from the labelled data with only one class i.e. shuttlecock. This model will further be used for detection of shuttlecock in videos. |
+| 06_shuttle_inference   | This module uses the trained model instance to read the frames of desired video and tracks shuttle to compute key statistics such as shots in rally shot types such as smash, drop etc. |
 
 ### Player Tracking
 
